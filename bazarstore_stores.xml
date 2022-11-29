@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bazarstore</name>
+    <description/>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Bazarstore mağazaları</name>
+      <Placemark>
+        <name>Bazarstore Baş ofis</name>
+        <description><![CDATA[Bakı, Azerbaijan Əliyar Əliyev kucesi, 108 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8641875,40.4203125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xətai Bazarstore</name>
+        <description><![CDATA[Xətai r.nu Babək pr. 1129 məhəllə.<br>www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8666875,40.3881875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gənclik Bazarstore</name>
+        <description><![CDATA[F.X. Xoyski pr. 830, Gənclik metrosunun çıxışı www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8503125,40.3995625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Bulvar Bazarstore</name>
+        <description><![CDATA[Neftçilər pros.1 Park Bulvar Parking girişi www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8496875,40.3708125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Badamdar Bazarstore</name>
+        <description><![CDATA[Badamdar qəs.1-ci yaşayış massivi 1 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8100625,40.3411875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nəsimi 1 Bazarstore</name>
+        <description><![CDATA[M.Mirqasımov küç. 29 (Nəsimi bazarının yanı) www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8424375,40.3964375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nəsimi 2 Bazarstore</name>
+        <description><![CDATA[Xan Şuşinski və Abbas Səhhət küçələrinin kəsişməsi                                                www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8368125,40.3958125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xutor Bazarstore</name>
+        <description><![CDATA[Xutor qəsəbəsi, Yeganə ş.s yanı www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8283125,40.4133125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yeni Yasamal Bazarstore</name>
+        <description><![CDATA[Yasamal,Talıblı 4                                 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7956875,40.3926875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yasamal Park Bazarstore</name>
+        <description><![CDATA[Yasamal ray. Tri Koronanın və Yasamal parkının yanı                                                         www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8106875,40.3860625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yasamal Rich Bazarstore</name>
+        <description><![CDATA[Nazim Hikmət küç 27                                                  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8070625,40.3796875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mida Yasamal Bazarstore</name>
+        <description><![CDATA[MİDA Yasamal Yaşayış kompleksi www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7964375,40.3769375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayna Sultanova Bazarstore</name>
+        <description><![CDATA[Ayna Sultanova dairəsi,(Vergi idarəsi ilə üzbəüz körpünün digər tərəfi)                             www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8445625,40.4123125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azadlıq 1 Bazarstore</name>
+        <description><![CDATA[Yusif Vəzir Çəmənzəminli küç 68 City Hospital yanı                                                           www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8349375,40.4024375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azadlıq 2 Bazarstore</name>
+        <description><![CDATA[Azadlıq pros. V.Plotnikov və Ruhulla Axundov küçələrinin kəsişməsi                              www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8445625,40.3846875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bakıxanov 1 Bazarstore</name>
+        <description><![CDATA[Bakıxanov qəs.Gənclik pr.29                  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9644375,40.4179375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bakıxanov 2 Bazarstore</name>
+        <description><![CDATA[Bakıxanov qəs Mehmandarov 28 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9595625,40.4243125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Əhmədli Bazarstore</name>
+        <description><![CDATA[Əhmədli qəs.,Saraevo küç.23-25 ci məhəllə ,Bakı k/t yanı                                                       www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9598125,40.3865625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 KM Bazarstore
+</name>
+        <description><![CDATA[Nizami r.,E.Süleymanov küç.122             www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9550625,40.4099375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xalqlar Dostluğu Bazarstore</name>
+        <description><![CDATA[Xalqlar dostluğu m/s yanı Qara Qarayev pros 124 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9506719,40.3985625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qarayev Bazarstore</name>
+        <description><![CDATA[Tofiq Abbasov 38 (Nəbz klinikasının yanı) www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9351875,40.4188125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qarayev 2 Bazarstore</name>
+        <description><![CDATA[Nizami r.,Q. Qarayev, İ. Əliyev, T. Abbasov və Özbəkistan küçələrinin kəsişməsi www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9311875,40.4199375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Təbriz Bazarstore</name>
+        <description><![CDATA[Təbriz Küçəsi, Ülvi Bünyadzadə 17 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8454375,40.3846875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montin Bazarstore</name>
+        <description><![CDATA[Nərimanov r. Ağa Nemətulla 26 A www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8778125,40.3975625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naxçıvani Bazarstore</name>
+        <description><![CDATA[Binəqədi r. Naxçıvani Residence -in aşağısı. Ə. Naxçıvani 44                                        www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8485625,40.4181875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>İstanbul Evləri Bazarstore</name>
+        <description><![CDATA[Binəqədi ray, İstanbul evləri kompleksi, Ə Naxçıvani 14                                       www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8388125,40.4161875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ukrayna Dairesi Bazarstore</name>
+        <description><![CDATA[Məhəmməd Hadi 58                            www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9526875,40.3766875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nəsrəddin Tusi Bazarstore</name>
+        <description><![CDATA[Xətai rayonu, 2942 B məh, Nəsirəddin Tusi küç 10 G                                                                                www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9652317,40.3798904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panorama Park Bazarstore</name>
+        <description><![CDATA[Gəncə Prospekti. Panorama Park Yaşayış Kompleksi                                           www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9605625,40.3555625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Günəşli Bazarstore</name>
+        <description><![CDATA[Yeni Günəşli V Massivi 9                   www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9805625,40.3795625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qaraçuxur Bazarstore</name>
+        <description><![CDATA[Qaraçuxur qəs Cəlal Qurbanov 45 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9761875,40.3999375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Şüvəlan Bazarstore</name>
+        <description><![CDATA[Şüvəlan qəs.Almaz İldırım 68, Şüvəlan Park www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            50.1836875,40.4845625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nargilə Bazarstore</name>
+        <description><![CDATA[Zığ şossesi 5, Nargilə kafesi ilə üzbəüz www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9369375,40.3685625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suraxanı Bazarstore</name>
+        <description><![CDATA[Suraxanı r., Əmircan qəs.Səttar Bəhlulzadə küç.24                                                  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9979375,40.4208125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binə Bazarstore</name>
+        <description><![CDATA[Binə qəs Fuad Aynulov 61                   www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            50.0885625,40.4496875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xəzər Bazarstore</name>
+        <description><![CDATA[Bakı şəhəri, Xətai Rayonu, Gəncə prospekti. 63 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.9628125,40.3616875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dreamland Bazarstore</name>
+        <description><![CDATA[Zığ şossesi , Xəyal adası                     www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            50.0959375,40.4003125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayıl Bazarstore</name>
+        <description><![CDATA[Bayıl qəs Neftçi Qurban Abbasov küç 74 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8385625,40.3430625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hövsan Bazarstore</name>
+        <description><![CDATA[Hövsan qəs, Oqtay Şabanov (Çöllük k) www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            50.0689375,40.3595625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mida Hövsan Bazarstore</name>
+        <description><![CDATA[MİDA Yasamal Yaşayış kompleksi        www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            50.0718125,40.3798125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aqrovest Topdan Bazarstore</name>
+        <description><![CDATA[Lökbatan qəsəbəsi ,Binə bazarı ilə üzbəüz      www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7477344,40.3085375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biləcəri Bazarstore</name>
+        <description><![CDATA[Biləcəri qəs,Avtovağzal kompleksinin yaxınlığı    www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7976957,40.4221825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masazır Bazarstore</name>
+        <description><![CDATA[Abşeron r. Masazır qəs., Duz gölünün yanı www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7599375,40.4951875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hökməli Bazarstore</name>
+        <description><![CDATA[Abşeron r Bakı-Şamaxı şossesi www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.8261875,40.4419375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xırdalan AAAF Bazarstore</name>
+        <description><![CDATA[Xırdalan AAAF yaşayış kompleksi www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7274375,40.4601875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xırdalan Keçid Bazarstore</name>
+        <description><![CDATA[Bakı -Sumqayıt şossesi                     www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900 ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7476719,40.4628875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xırdalan Məktəb Bazarstore</name>
+        <description><![CDATA[Xırdalan İcra hakimiyyətinin yanı www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.7523125,40.4521875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumqayıt 1 Bazarstore</name>
+        <description><![CDATA[Sumqayıt 30-cu məhəllə, N.Nərimanov küç.3 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.6761875,40.5906875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumqayıt 2 Bazarstore</name>
+        <description><![CDATA[Sumqayıt şəhəri 44 - cü məhəllə www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.6798125,40.5760625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumqayıt 3 Bazarstore</name>
+        <description><![CDATA[Sumqayıt şəh Nur Şadlıq sarayı ilə üzbəüz www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            49.6980625,40.5644375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bərdə Bazarstore</name>
+        <description><![CDATA[Bərdə şəhəri Bakı küç. 2A (Azpetrolun yanı)   www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.1346875,40.3763125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ağcəbədi Bazarstore</name>
+        <description><![CDATA[Ağcabədi ray. H.Hacıyev küç (Mərkəzi xəstəxananın yanı)                                                       www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900                                                     ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.4474531,40.0441875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gəncə Bazarstore</name>
+        <description><![CDATA[Gəncə,Nəriman Nərimanov pr.,76<br> www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.3699375,40.6748125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gəncə 2 Bazarstore</name>
+        <description><![CDATA[Gəncə,N.Gəncəvi pr.                            www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.3624375,40.6816875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gəncə 3 Bazarstore</name>
+        <description><![CDATA[Gəncə Bakı şossesi                             www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.4181875,40.6844375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gəncə 4 Bazarstore</name>
+        <description><![CDATA[Gəncə şəh, Kəpəz r, Ş.İ.Xətai 113 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.3880625,40.6851875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mingəçevir Bazarstore</name>
+        <description><![CDATA[Mingəçevir şəh Heydər Əliyev parkının yanı  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.0569531,40.7680625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mingəçevir 2 Bazarstore</name>
+        <description><![CDATA[Mingəçevir şəh Köhnə Bazar , Ticarət Mərkəzi www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.0478125,40.7725625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Şəmkir Bazarstore</name>
+        <description><![CDATA[Şəmkir r Yamin Ş/S yanı                     www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.0400625,40.8381875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Şəmkir 2 Bazarstore</name>
+        <description><![CDATA[Şəmir r Səməd Vurğun küçəsi Gold Qafqaz Ş/S aşağısı                                                  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.0193125,40.8300625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qazax Bazarstore</name>
+        <description><![CDATA[Heydər Əliyev pros 170www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            45.3773125,41.0969375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tovuz Bazarstore</name>
+        <description><![CDATA[Tovuz r Qovlar qəs                             www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            45.7419375,40.9469375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ağstafa Bazarstore</name>
+        <description><![CDATA[Ağstafa ray, Bakı-Qazax şossesi, 452-ci km (Saloğlu Mebel Fabrikinin yanı)                                 www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900                               ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            45.4372656,41.1094875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Şəki Bazarstore</name>
+        <description><![CDATA[Şəki r, S.Rəhman küç.27                    www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.1676875,41.2011875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zaqatala Bazarstore</name>
+        <description><![CDATA[Zaqatala,Molla Vəli Vidadi küç.3  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            46.6441719,41.6299625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>İsmayıllı Bazarstore</name>
+        <description><![CDATA[İsmayıllı ray Baku Elektroniksin yanı Heydər Əliyev pr 188                                         www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.1556875,40.7918125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qəbəblə Bazarstore</name>
+        <description><![CDATA[Qəbələ  Zarağan                                  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.8016875,40.9279375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qəbələ 2 Bazarstore</name>
+        <description><![CDATA[Qəbələ r Səməd Vurğun küç            www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            47.8455625,40.9771875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Şamaxı Bazarstore</name>
+        <description><![CDATA[Şamaxı şəhəri, Şəhriyar küç 1 (Şamaxı mədəniyyət evinin yanı)                                              www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.6366094,40.6378125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>İmişli Bazarstore</name>
+        <description><![CDATA[İmişli ş. H.Əliyev pr. (4 saylı Uşaq Bağçasının yanı)                                              www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.0565625,39.8690625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>İmişli 2 Bazarstore</name>
+        <description><![CDATA[İmişli r, Heydər Əliyev pros 109       www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.0616875,39.8700625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabirabad</name>
+        <description><![CDATA[Sabirabad ray Heydər Əliyev pr    www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.4701875,40.0044375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cəlilabad Bazarstore</name>
+        <description><![CDATA[Cəlilabad r Rasim Ş/S -nın aşağısı www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.4935625,39.2086875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lənkəran Bazarstore</name>
+        <description><![CDATA[Lənkəran şəh Mirmustafaxan küç         www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.8495625,38.7540625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lənkəran 2 Bazarstore</name>
+        <description><![CDATA[Lənkəran şəh Məhəllə 21                         www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.8348125,38.7588125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lənkəran 3 Bazarstore</name>
+        <description><![CDATA[Lənkəran şəh Qala qəs Boranı restoranı ilə üzbəüz                                                  www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.8535625,38.7581875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masallı Bazarstore</name>
+        <description><![CDATA[Masallı ray Heydər Əliyev pr                   www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.6755625,39.0380625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masallı 2 Bazarstore</name>
+        <description><![CDATA[Masallı ray Heydər Əliyev pr                                      www.bazarstore.az<br>+994 12 404 19 (70-75)<br>*1900                                ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            48.6675625,39.0236875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
