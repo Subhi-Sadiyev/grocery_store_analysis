@@ -11,8 +11,17 @@ reading = items_list_file.read()
 
 items_list = reading.split(',')
 
-
 #print(len(items_list))
+
+
+
+###sorting ids numerically to get a range
+
+#items_list_num_sorted = sorted(items_list)
+
+#with open("bina_az_ids_numerically_sorted.txt", "a", encoding="utf8") as f:
+ #   f.write(str(items_list_num_sorted))
+
 
 
 
@@ -20,18 +29,19 @@ items_list = reading.split(',')
 ###fetching limited amount of items from bina_az
 
 URL = 'https://bina.az/items/'
+
 headers = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'
 }
 
-for item in items_list:
+for item in range(3000006,3058464):
     request = requests.get(URL + str(item) + '/', headers=headers)
     soup = BeautifulSoup(request.text, 'html.parser')
 
     titles = soup.find('title').text
-    print(request)
+    
     print(titles)
-    with open("bina_az_500_items.txt", "a", encoding="utf8") as f:
+    with open("bina_az_sorted_num_items.txt", "a", encoding="utf8") as f:
         f.write(str(titles))
 
     sleep(randint(20,25))
