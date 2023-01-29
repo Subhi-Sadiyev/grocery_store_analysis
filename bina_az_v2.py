@@ -44,4 +44,4 @@ for item in range(3000006,3058464):
     with open("bina_az_sorted_num_items.txt", "a", encoding="utf8") as f:
         f.write(str(titles))
 
-    sleep(randint(20,25))
+    sleep(randint(20,30))
