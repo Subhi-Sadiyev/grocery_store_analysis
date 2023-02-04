@@ -14,6 +14,6 @@ final_yeni_tikili_items_list = [s.replace('id":"', '') for s in yeni_tikili_item
 
 #print(final_yeni_tikili_items_list)
 
-with open("bina_az_yeni_tikili_all_items_id.txt", "a", encoding="utf8") as f:
-        f.write(str(final_yeni_tikili_items_list))
+#with open("bina_az_yeni_tikili_all_items_id.txt", "a", encoding="utf8") as f:
+ #       f.write(str(final_yeni_tikili_items_list))
 
